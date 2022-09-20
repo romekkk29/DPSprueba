@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6958e375.css",
-    "main.js": "/static/js/main.b0acaed1.js",
+    "main.js": "/static/js/main.e91118b7.js",
     "static/js/787.dbd83463.chunk.js": "/static/js/787.dbd83463.chunk.js",
     "static/media/sucursales.png": "/static/media/sucursales.de9a22662ef61f8b4512.png",
     "static/media/crear.jpg": "/static/media/crear.72347f031460ce2c67da.jpg",
@@ -22,11 +22,11 @@
     "index.html": "/index.html",
     "static/media/farmacia.svg": "/static/media/farmacia.764d34c4522c2459cb7bc7efd7017087.svg",
     "main.6958e375.css.map": "/static/css/main.6958e375.css.map",
-    "main.b0acaed1.js.map": "/static/js/main.b0acaed1.js.map",
+    "main.e91118b7.js.map": "/static/js/main.e91118b7.js.map",
     "787.dbd83463.chunk.js.map": "/static/js/787.dbd83463.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6958e375.css",
-    "static/js/main.b0acaed1.js"
+    "static/js/main.e91118b7.js"
   ]
 }
